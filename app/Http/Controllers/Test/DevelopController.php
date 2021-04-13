@@ -13,4 +13,8 @@ class DevelopController extends Apis
     function develop1(){
         
     }
+
+    function new_develop(){
+        
+    }
 }
